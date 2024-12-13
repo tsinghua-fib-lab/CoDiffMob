@@ -31,7 +31,7 @@ Entrypoint to the diffusion model training is train.py. The script takes a confi
 - Run the following command to train the diffusion model
 
 ```bash
-python3 experiments/diff/train_md.py --config configs/{city}.yml --save /path/to/log_dir
+python3 train.py --config configs/{city}.yml --save /path/to/log_dir
 ```
 
 The trained model will be saved in the log directory and you can check the training process in tensorboard by running `tensorboard --logdir /path/to/log_dir`. We trained our model for 200 epochs on both ISP and MME datasets.
