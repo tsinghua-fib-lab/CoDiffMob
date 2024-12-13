@@ -5,10 +5,6 @@ Code for the paper "Noise Matters: Diffusion Model-based Urban Mobility Generati
 
 **step 1**: clone the repository
 
-```bash
-git clone https://github.com/tsinghua-fib-lab/LCSim.git
-```
-
 **step 2**: create a virtual environment with conda or virtualenv
 
 ```bash
