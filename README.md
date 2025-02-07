@@ -1,4 +1,4 @@
-# NoiseMatters
+# CoDiffMob
 Code for the paper "Noise Matters: Diffusion Model-based Urban Mobility Generation with Collaborative Noise Priors"
 
 ## Getting Started
